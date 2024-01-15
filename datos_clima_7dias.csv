@@ -1,0 +1,8 @@
+tem,tem_min,tem_max,weather,wind_speed,cloud_cover,precipitacion
+23.0,21.2,26.2,overcast,3.0,94,0.5
+22.8,20.5,26.2,cloudy,3.0,85,0.0
+23.0,20.8,26.2,mostly_cloudy,3.1,85,0.0
+23.0,20.8,25.5,cloudy,2.8,91,0.5
+23.0,21.0,25.5,mostly_cloudy,3.0,86,0.0
+23.2,21.2,26.0,overcast,2.8,95,0.0
+23.8,21.8,26.2,overcast,2.6,95,0.0
