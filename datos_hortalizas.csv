@@ -1,0 +1,20 @@
+Hortalizas,tem_min,ran_optim,tem_optim,tem_max
+Betabel,4,10-29,29,29
+Frijol,15,15-29,26,35
+Repollo,4,7-35,29,37
+Coliflor,4,7-29,26,37
+Apio,4,15-21,21,29
+Acelga,4,10-29,29,35
+Pepino,15,15-35,35,40
+Berenjena,15,23-32,29,35
+Lechuga,1,4-26,23,29
+Melón,15,23-35,32,37
+Cebolla,1,10-35,23,35
+Perejil,4,10-29,23,32
+Chícharo,4,4-23,23,29
+Chile,15,18-35,29,35
+Calabaza,15,21-32,32,37
+Espinaca,1,7-23,21,29
+Calabacita,15,21-35,35,37
+Maíz Dulce,10,15-35,35,40
+Tomate,10,21-35,29,35
