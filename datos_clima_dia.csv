@@ -1,0 +1,25 @@
+temperature,summary,cloud_cover,precipitation,wind_speed
+21.2,Overcast,100,0.0,3.0
+21.0,Overcast,100,0.0,2.9
+21.0,Overcast,100,0.0,2.5
+21.0,Overcast,100,0.0,2.3
+21.0,Overcast,99,0.0,2.4
+21.0,Overcast,95,0.0,2.2
+20.8,Cloudy,81,0.0,2.1
+20.5,Cloudy,84,0.0,2.4
+20.8,Cloudy,86,0.0,2.3
+21.2,Overcast,91,0.0,2.4
+22.2,Cloudy,84,0.0,2.7
+23.2,Partly sunny,53,0.0,3.1
+24.2,Partly sunny,30,0.0,3.4
+25.5,Mostly sunny,13,0.0,4.0
+26.0,Partly sunny,50,0.0,4.4
+26.2,Mostly cloudy,78,0.0,4.5
+26.0,Overcast,100,0.0,4.3
+25.2,Overcast,100,0.0,4.2
+24.5,Overcast,100,0.0,3.7
+24.0,Overcast,100,0.0,3.2
+23.2,Overcast,99,0.0,3.0
+22.5,Overcast,100,0.0,3.0
+22.5,Overcast,100,0.0,1.9
+22.0,Overcast,100,0.0,2.8
