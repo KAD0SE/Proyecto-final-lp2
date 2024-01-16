@@ -7,4 +7,3 @@ Integrantes:
 
 -Jeferson Chalas Montes (booimjeF)
 
--Enrique Andres Zevallos (combustible15)
